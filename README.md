@@ -7,7 +7,7 @@ The Tau exercise is organised in two Jupyter notebooks, both contained in this r
 To run the notebooks with regular CERN resources:
 * Open a SWAN session at swan.cern.ch (the defaults are good, as of writing this pick software stack 97a and make sure to use Python3)
 * In the SWAN session, click on the item on the right-hand side that says "Download Project from git"
-* Copy-paste https://github.com/Fengwangdong/CMSDASLPC2024-Tau-Short-Exercise.git
+* Copy-paste https://github.com/itzelliss/CMSDASLPC2025-Tau-Short-Exercise.git
 * You're all set and can click on the two exercises, `tau_short_exercise_1.ipynb` and `tau_short_exercise_2.ipynb`
 
 ### Alternative way to run the exercise
